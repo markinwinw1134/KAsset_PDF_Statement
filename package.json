@@ -1,0 +1,22 @@
+{
+  "name": "kasset_pdf_statement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markinwinw1134/KAsset_PDF_Statement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markinwinw1134/KAsset_PDF_Statement/issues"
+  },
+  "homepage": "https://github.com/markinwinw1134/KAsset_PDF_Statement#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^25.9.3"
+  }
+}
